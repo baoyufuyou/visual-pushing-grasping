@@ -17,6 +17,7 @@ realsense/realsense
 
 *.pyc
 *__pycache__*
+.idea/*
 
 commands.txt
 visualization.push.png
